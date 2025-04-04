@@ -13,3 +13,6 @@ A lightweight Python script to merge multiple PDF files from a folder into one c
 3. Outputs a single merged PDF
 
 ## 🗂️ Folder Structure
+
+` pdf_merger.py` 
+
