@@ -16,3 +16,8 @@ A lightweight Python script to merge multiple PDF files from a folder into one c
 
 ` pdf_merger.py` 
 
+
+Required Library
+PyPDF2
+ - pip install PyPDF2
+
